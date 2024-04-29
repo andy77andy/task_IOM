@@ -1,4 +1,4 @@
-"# task_IOM" 
+task_IOM
 
 
 In this project we perform cleaning data in the given dataset and a simple visualization of our data.
